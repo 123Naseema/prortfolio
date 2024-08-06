@@ -26,7 +26,7 @@ To clone and run this project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/rvrakash17/Portfolio.git
+   git clone https://github.com/123Naseema/prortfolio.git
    ```
 
 2. **Navigate to the Project Directory:**
